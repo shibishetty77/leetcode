@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/shibishetty77/leetcode/tree/master/0292-nim-game) |
 | [0908-smallest-range-i](https://github.com/shibishetty77/leetcode/tree/master/0908-smallest-range-i) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shibishetty77/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Brainteaser
 |  |
 | ------- |
