@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shibishetty77/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/shibishetty77/leetcode/tree/master/0326-power-of-three) |
 | [0908-smallest-range-i](https://github.com/shibishetty77/leetcode/tree/master/0908-smallest-range-i) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shibishetty77/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Brainteaser
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shibishetty77/leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shibishetty77/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/shibishetty77/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
