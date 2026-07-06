@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shibishetty77/leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/shibishetty77/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shibishetty77/leetcode/tree/master/0326-power-of-three) |
 | [0908-smallest-range-i](https://github.com/shibishetty77/leetcode/tree/master/0908-smallest-range-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shibishetty77/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/shibishetty77/leetcode/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
@@ -80,5 +82,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shibishetty77/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shibishetty77/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
