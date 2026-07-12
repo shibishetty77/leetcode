@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shibishetty77/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shibishetty77/leetcode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shibishetty77/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shibishetty77/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shibishetty77/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shibishetty77/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shibishetty77/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shibishetty77/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shibishetty77/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shibishetty77/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shibishetty77/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shibishetty77/leetcode/tree/master/0342-power-of-four) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
