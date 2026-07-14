@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shibishetty77/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/shibishetty77/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/shibishetty77/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shibishetty77/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shibishetty77/leetcode/tree/master/0268-missing-number) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/shibishetty77/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/shibishetty77/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
