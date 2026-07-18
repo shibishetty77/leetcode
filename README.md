@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shibishetty77/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shibishetty77/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shibishetty77/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shibishetty77/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-smallest-range-i](https://github.com/shibishetty77/leetcode/tree/master/0908-smallest-range-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shibishetty77/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shibishetty77/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shibishetty77/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shibishetty77/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shibishetty77/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shibishetty77/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/shibishetty77/leetcode/tree/master/2540-minimum-common-value) |
 ## Counting
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shibishetty77/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shibishetty77/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shibishetty77/leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shibishetty77/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/shibishetty77/leetcode/tree/master/2540-minimum-common-value) |
 ## String
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shibishetty77/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shibishetty77/leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shibishetty77/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shibishetty77/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shibishetty77/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shibishetty77/leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shibishetty77/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2540-minimum-common-value](https://github.com/shibishetty77/leetcode/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
