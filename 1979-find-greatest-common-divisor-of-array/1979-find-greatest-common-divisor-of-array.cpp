@@ -8,9 +8,8 @@ public:
     }
     int gcdof(int s ,int l){
         while(l!=0){
-            int temp=l;
-            l=s%l;
-            s=temp;
+            swap(s,l);
+            l=l%s;
         }
         return s;
     }
