@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shibishetty77/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shibishetty77/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shibishetty77/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shibishetty77/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shibishetty77/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shibishetty77/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shibishetty77/leetcode/tree/master/0292-nim-game) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shibishetty77/leetcode/tree/master/0258-add-digits) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shibishetty77/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shibishetty77/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3360-stone-removal-game](https://github.com/shibishetty77/leetcode/tree/master/3360-stone-removal-game) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shibishetty77/leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shibishetty77/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shibishetty77/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
