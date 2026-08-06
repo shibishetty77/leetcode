@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shibishetty77/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shibishetty77/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2769-find-the-maximum-achievable-number](https://github.com/shibishetty77/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shibishetty77/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/shibishetty77/leetcode/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/shibishetty77/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shibishetty77/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shibishetty77/leetcode/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shibishetty77/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
