@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shibishetty77/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shibishetty77/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1920-build-array-from-permutation](https://github.com/shibishetty77/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shibishetty77/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shibishetty77/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shibishetty77/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shibishetty77/leetcode/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/shibishetty77/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shibishetty77/leetcode/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shibishetty77/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shibishetty77/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
