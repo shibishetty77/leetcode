@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shibishetty77/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shibishetty77/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shibishetty77/leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/shibishetty77/leetcode/tree/master/0541-reverse-string-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shibishetty77/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shibishetty77/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shibishetty77/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shibishetty77/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibishetty77/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shibishetty77/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shibishetty77/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shibishetty77/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shibishetty77/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/shibishetty77/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shibishetty77/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibishetty77/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shibishetty77/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
