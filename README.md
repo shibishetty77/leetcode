@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shibishetty77/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shibishetty77/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/shibishetty77/leetcode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/shibishetty77/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shibishetty77/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shibishetty77/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shibishetty77/leetcode/tree/master/0217-contains-duplicate) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/shibishetty77/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/shibishetty77/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shibishetty77/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shibishetty77/leetcode/tree/master/0242-valid-anagram) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/shibishetty77/leetcode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/shibishetty77/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -309,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shibishetty77/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shibishetty77/leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shibishetty77/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
