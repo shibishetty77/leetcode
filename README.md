@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shibishetty77/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/shibishetty77/leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/shibishetty77/leetcode/tree/master/0541-reverse-string-ii) |
+| [0796-rotate-string](https://github.com/shibishetty77/leetcode/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/shibishetty77/leetcode/tree/master/1672-richest-customer-wealth) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shibishetty77/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
