@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shibishetty77/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shibishetty77/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/shibishetty77/leetcode/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/shibishetty77/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shibishetty77/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shibishetty77/leetcode/tree/master/0137-single-number-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shibishetty77/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/shibishetty77/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shibishetty77/leetcode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/shibishetty77/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shibishetty77/leetcode/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/shibishetty77/leetcode/tree/master/1672-richest-customer-wealth) |
 ## String Matching
 |  |
