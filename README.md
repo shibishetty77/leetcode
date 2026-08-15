@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibishetty77/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/shibishetty77/leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/shibishetty77/leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/shibishetty77/leetcode/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/shibishetty77/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shibishetty77/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shibishetty77/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/shibishetty77/leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/shibishetty77/leetcode/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/shibishetty77/leetcode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/shibishetty77/leetcode/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shibishetty77/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shibishetty77/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shibishetty77/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/shibishetty77/leetcode/tree/master/0567-permutation-in-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shibishetty77/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shibishetty77/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/shibishetty77/leetcode/tree/master/2540-minimum-common-value) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shibishetty77/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/shibishetty77/leetcode/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
