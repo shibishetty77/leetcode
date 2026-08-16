@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shibishetty77/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shibishetty77/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/shibishetty77/leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/shibishetty77/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shibishetty77/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shibishetty77/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shibishetty77/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shibishetty77/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/shibishetty77/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shibishetty77/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/shibishetty77/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shibishetty77/leetcode/tree/master/0189-rotate-array) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shibishetty77/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shibishetty77/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shibishetty77/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/shibishetty77/leetcode/tree/master/1672-richest-customer-wealth) |
