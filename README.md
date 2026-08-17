@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shibishetty77/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shibishetty77/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/shibishetty77/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shibishetty77/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shibishetty77/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/shibishetty77/leetcode/tree/master/0162-find-peak-element) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shibishetty77/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/shibishetty77/leetcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/shibishetty77/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shibishetty77/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shibishetty77/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shibishetty77/leetcode/tree/master/0217-contains-duplicate) |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/shibishetty77/leetcode/tree/master/0796-rotate-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shibishetty77/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
