@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shibishetty77/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shibishetty77/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/shibishetty77/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shibishetty77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shibishetty77/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shibishetty77/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shibishetty77/leetcode/tree/master/0137-single-number-ii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shibishetty77/leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shibishetty77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shibishetty77/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/shibishetty77/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/shibishetty77/leetcode/tree/master/0877-stone-game) |
