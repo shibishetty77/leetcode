@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shibishetty77/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shibishetty77/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shibishetty77/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2206-divide-array-into-equal-pairs](https://github.com/shibishetty77/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shibishetty77/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/shibishetty77/leetcode/tree/master/2540-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shibishetty77/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shibishetty77/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shibishetty77/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/shibishetty77/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shibishetty77/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/shibishetty77/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shibishetty77/leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shibishetty77/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2206-divide-array-into-equal-pairs](https://github.com/shibishetty77/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shibishetty77/leetcode/tree/master/0567-permutation-in-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shibishetty77/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shibishetty77/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2206-divide-array-into-equal-pairs](https://github.com/shibishetty77/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2540-minimum-common-value](https://github.com/shibishetty77/leetcode/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/shibishetty77/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
