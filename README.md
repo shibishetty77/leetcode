@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shibishetty77/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shibishetty77/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shibishetty77/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/shibishetty77/leetcode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/shibishetty77/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shibishetty77/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shibishetty77/leetcode/tree/master/0283-move-zeroes) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shibishetty77/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shibishetty77/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shibishetty77/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/shibishetty77/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shibishetty77/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/shibishetty77/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/shibishetty77/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shibishetty77/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shibishetty77/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shibishetty77/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shibishetty77/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shibishetty77/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shibishetty77/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shibishetty77/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shibishetty77/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/shibishetty77/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shibishetty77/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shibishetty77/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shibishetty77/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -387,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shibishetty77/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/shibishetty77/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
