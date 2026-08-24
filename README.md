@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shibishetty77/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shibishetty77/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/shibishetty77/leetcode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/shibishetty77/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shibishetty77/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shibishetty77/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shibishetty77/leetcode/tree/master/0877-stone-game) |
